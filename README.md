@@ -1,3 +1,3 @@
 # kaikai.githup.io
 博凯
-博客备份文件
+博客图片文件
